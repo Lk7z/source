@@ -5,5 +5,6 @@ folder. These might include:
 - Debug Files (.pdb)
 - Object Files (.obj & .o)
 - Build Info (.vcxproj, .sln, Makefile)\
+
 You'll also have to add your own\
 resource files (.rc & resource.h).
